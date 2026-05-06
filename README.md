@@ -5,7 +5,7 @@
 
 ---
 
-Keyla è una piattaforma di test di velocità di scrittura (typing speed), moderna, offline e cross‑platform, sviluppata come progetto di gruppo per il corso di **Software Process Engineering**.
+Keyla è una piattaforma di test di velocità di scrittura (typing speed), moderna, offline e cross-platform, sviluppata come progetto di gruppo per il corso di **Software Process Engineering**.
 
 ## 🔗 Organizzazione GitHub
 
