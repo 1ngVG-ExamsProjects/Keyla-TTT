@@ -1,26 +1,26 @@
 # Keyla-TTT
 
-> **Questo repository è un access point.**
-> Il progetto completo si trova nell'organizzazione GitHub **[Keyla-TTT](https://github.com/Keyla-TTT)**.
+> **This repository is an access point.**
+> The complete project is available in the GitHub organization **[Keyla-TTT](https://github.com/Keyla-TTT)**.
 
 ---
 
-Keyla è una piattaforma di test di velocità di scrittura (typing speed), moderna, offline e cross-platform, sviluppata come progetto di gruppo per il corso di **Software Process Engineering**.
+Keyla is a modern, offline, cross-platform typing speed test platform, developed as a group project for the **Software Process Engineering** course.
 
-## 🔗 Organizzazione GitHub
+## 🔗 GitHub Organization
 
 ➡️ **[https://github.com/Keyla-TTT](https://github.com/Keyla-TTT)**
 
-## 📦 Repository del progetto
+## 📦 Project Repositories
 
-| Repository | Descrizione |
+| Repository | Description |
 |---|---|
-| [Keyla-RELEASE](https://github.com/Keyla-TTT/Keyla-RELEASE) | Releases, installazione e Quick Start (Docker + CLI) |
+| [Keyla-RELEASE](https://github.com/Keyla-TTT/Keyla-RELEASE) | Releases, installation, and Quick Start (Docker + CLI) |
 | [Keyla-API](https://github.com/Keyla-TTT/Keyla-API) | Backend API (Scala 3) |
-| [Keyla-CLI](https://github.com/Keyla-TTT/Keyla-CLI) | Client a riga di comando (Kotlin Multiplatform) |
-| [Keyla-REPORT](https://github.com/Keyla-TTT/Keyla-REPORT) | Report e documentazione del progetto |
+| [Keyla-CLI](https://github.com/Keyla-TTT/Keyla-CLI) | Command-line client (Kotlin Multiplatform) |
+| [Keyla-REPORT](https://github.com/Keyla-TTT/Keyla-REPORT) | Project report and documentation |
 
-## 📚 Link utili
+## 📚 Useful Links
 
-- 📖 [Report del progetto (GitHub Pages)](https://keyla-ttt.github.io/Keyla-REPORT/)
-- 🚀 [Guida all'installazione](https://github.com/Keyla-TTT/Keyla-RELEASE)
+- 📖 [Project report (GitHub Pages)](https://keyla-ttt.github.io/Keyla-REPORT/)
+- 🚀 [Installation guide](https://github.com/Keyla-TTT/Keyla-RELEASE)
